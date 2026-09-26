@@ -1,0 +1,11 @@
+D:\VS2022\program\YunkongDemo_GooGol\YunkongDemo_GooGol\bin\Debug\YunkongDemo_GooGol.exe.config
+D:\VS2022\program\YunkongDemo_GooGol\YunkongDemo_GooGol\bin\Debug\YunkongDemo_GooGol.exe
+D:\VS2022\program\YunkongDemo_GooGol\YunkongDemo_GooGol\bin\Debug\YunkongDemo_GooGol.pdb
+D:\VS2022\program\YunkongDemo_GooGol\YunkongDemo_GooGol\obj\Debug\YunkongDemo_GooGol.csproj.AssemblyReference.cache
+D:\VS2022\program\YunkongDemo_GooGol\YunkongDemo_GooGol\obj\Debug\YunkongDemo_GooGol.Form1.resources
+D:\VS2022\program\YunkongDemo_GooGol\YunkongDemo_GooGol\obj\Debug\YunkongDemo_GooGol.Properties.Resources.resources
+D:\VS2022\program\YunkongDemo_GooGol\YunkongDemo_GooGol\obj\Debug\YunkongDemo_GooGol.csproj.GenerateResource.cache
+D:\VS2022\program\YunkongDemo_GooGol\YunkongDemo_GooGol\obj\Debug\YunkongDemo_GooGol.csproj.CoreCompileInputs.cache
+D:\VS2022\program\YunkongDemo_GooGol\YunkongDemo_GooGol\obj\Debug\YunkongDemo_GooGol.exe
+D:\VS2022\program\YunkongDemo_GooGol\YunkongDemo_GooGol\obj\Debug\YunkongDemo_GooGol.pdb
+D:\VS2022\program\YunkongDemo_GooGol\YunkongDemo_GooGol\obj\Debug\YunkongDemo_GooGol.exe.config
