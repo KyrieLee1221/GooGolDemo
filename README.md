@@ -71,17 +71,9 @@
    git clone https://github.com/KyrieLee1221/GooGolDemo.git
 
 2. **配置参数**
-
-   打开项目目录下的 App.config 文件，修改控制卡配置：
-   - CardNo：设置为你的卡号，例如 8
-   - IpAddress：设置为你的控制卡 IP，例如 192.168.0.11
-   - 例如：
-       ```xml
-      <appSettings>
-        <add key="CardNo" value="8"/> <!-- 你的卡号 -->
-        <add key="IpAddress" value="192.168.0.11"/> <!-- 你的控制卡IP -->
-      </appSettings>
-
+   
+    打开固高运动控制卡的本地调试工具，在工具里调整好配置参数并保存，然后把文件放置在bin/debug文件夹下，然后再程序里加载。
+  
 3. **编译运行**
 
    使用 Visual Studio 打开解决方案文件（.sln），确保已引用正确的运动控制卡动态库，然后编译运行。
