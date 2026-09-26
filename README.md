@@ -76,6 +76,7 @@
    - CardNo：设置为你的卡号，例如 8
    - IpAddress：设置为你的控制卡 IP，例如 192.168.0.11
    - 例如：
+       ```xml
       <appSettings>
         <add key="CardNo" value="8"/> <!-- 你的卡号 -->
         <add key="IpAddress" value="192.168.0.11"/> <!-- 你的控制卡IP -->
